@@ -66,9 +66,9 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
    
     text-align: left;
     color:#407BFF;
-    margin-left: 43%;
+    margin-left: 10%;
     margin-bottom:5%;
-    margin-top: 10%;
+    margin-top: 8%;
     position: fixed;
 }
 .footer1{
@@ -91,19 +91,32 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
     top:22%;
     left: 45%;
   }
-  .main h3{
+  /* .main h3{
     position: absolute;
     top:18%;
     left: 42%;
-  }
-  .imghapp{
+  } */
+  /* .imghapp{
     position: absolute;
     top:30%;
-    left:5% ;
-  }
-  .happword{
+    left:7% ;
+  } */
+  /* .happword{
     position: absolute;
     top:30%;
     text-align: left;
     left: 45%;
+  } */
+  .all{
+    text-align: center;
+    /* margin-top: 10%; */
+    position:absolute;
+    top: 20%;
+    left: 10%;
+    te
+    xt-align: left;
+
+  }
+  img{
+    margin-left: 5%;
   }
