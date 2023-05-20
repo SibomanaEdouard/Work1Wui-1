@@ -68,7 +68,7 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
     color:#407BFF;
     margin-left: 10%;
     margin-bottom:5%;
-    margin-top: 8%;
+    margin-top: -4%;
     position: fixed;
 }
 .footer1{
@@ -88,8 +88,8 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
   .happ{
     color:#407BFF;
     position: absolute;
-    top:22%;
-    left: 45%;
+    top:5%;
+
   }
   /* .main h3{
     position: absolute;
@@ -101,22 +101,82 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
     top:30%;
     left:7% ;
   } */
-  /* .happword{
+  .happword{
     position: absolute;
-    top:30%;
+    top:0%;
     text-align: left;
-    left: 45%;
-  } */
+ right: -130%;
+    background-color: #407BFF;
+    border-radius: 20%;
+    padding: 10%;
+    font-size: small;
+    font-weight: lighter;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
   .all{
     text-align: center;
     /* margin-top: 10%; */
     position:absolute;
     top: 20%;
     left: 10%;
-    te
-    xt-align: left;
+    text-align: left;
 
   }
   img{
     margin-left: 5%;
   }
+.all li{
+    color: #98b2eb;
+    font-size: x-large;
+}
+.fit{
+ 
+    position: absolute;
+    top:60%; 
+    text-align: left;
+ right: -130%;
+    background-color: #407BFF;
+    border-radius: 20%;
+    padding: 10%;
+    font-size: small;
+    font-weight: lighter;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fit1{
+position: absolute;
+top:-10%;
+right: 230%;
+}
+.imgfit{
+margin-top: 6%;
+width:14.5vw
+}
+.cov19{
+position: absolute;
+top:70%;
+left: 6%;
+}
+.vacimg{
+position: absolute;
+top:70%;
+left: 6%;
+}
+.covi{
+position: absolute;
+top:70%;
+left:50%;
+background-color: #407BFF;
+border-radius: 30%;
+padding: 2%;
+font-size: larger;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: lighter;
+font-style: oblique;
+}
+/* This is design of detail */
+
+.ball{
+   
+}
